@@ -44,6 +44,6 @@ See also the list of [contributors](https://github.com/SriniVishnu/Datatodecisio
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SriniVishnu/Datatodecisions/blob/master/LICENSE) file for details
+This project is licensed under the BSD 2-clause "Simplified" License - see the [LICENSE](https://github.com/SriniVishnu/Data2decInfoseek/blob/master/LICENSE) file for details
 
 

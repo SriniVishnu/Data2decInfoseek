@@ -19,9 +19,9 @@ Data in the dataset is in csv format. Each csv file has one year data in it. The
 
 This dataset is intended for public domain dedication. This work is licensed under a Creative Commons CCZero [1.0] License/Waiver.
 
-#License URL:
+# License URL:
 
-[Click here] (http://opendefinition.org/licenses/cc-zero/)
+(Click here) [http://opendefinition.org/licenses/cc-zero/]
 
 # Data users and Decision makers:
 

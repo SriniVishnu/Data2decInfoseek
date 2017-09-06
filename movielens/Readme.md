@@ -22,7 +22,7 @@ This data set contains the following files
 
 # License: 
 
-Usage license in the link gives the information on license (http://files.grouplens.org/datasets/movielens/ml-20m-README.html)
+Usage license in the link gives the information on license [License](http://files.grouplens.org/datasets/movielens/ml-20m-README.html)
 
 # Data users and Decision makers: 
 This dataset is used by the users who wants to perform the research on movie ratings and predict the rating of the upcoming film with similar data elements like cast.
@@ -35,4 +35,4 @@ This dataset is used by the users who wants to perform the research on movie rat
 
 # References: 
 
-Unknown (2016 , Oct). Retrieved from https://grouplens.org/datasets/movielens/20m/
+Unknown (2016 , Oct). Retrieved from "https://grouplens.org/datasets/movielens/20m/"

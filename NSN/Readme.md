@@ -33,3 +33,5 @@ Agencies/Customers who want to place orders for GSA.
 ## References:
 
 DATA CATALOG. (2017, Apr 19). Retrieved from "https://catalog.data.gov/dataset/national-stock-number-extract"
+
+National Stock Numbers for Furniture. (2017, May 10). Retrieved September 06, 2017, from https://www.gsa.gov/portal/category/21769

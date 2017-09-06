@@ -35,7 +35,7 @@ Users of this data are students or parents who are searching for the right schoo
 
 # References:
 
-Data Catalog, (2017, June 19). Retrieved from https://catalog.data.gov/dataset/college-scorecard
+Data Catalog, (2017, June 19). Retrieved from "https://catalog.data.gov/dataset/college-scorecard"
 
 
 

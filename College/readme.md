@@ -21,7 +21,7 @@ This dataset is intended for public domain dedication. This work is licensed und
 
 # License URL:
 
-(Click here) [http://opendefinition.org/licenses/cc-zero/]
+[Click here](http://opendefinition.org/licenses/cc-zero/)
 
 # Data users and Decision makers:
 

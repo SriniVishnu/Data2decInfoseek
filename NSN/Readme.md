@@ -17,7 +17,7 @@ There is one csv file with 10369 rows and seven columns in it.
 
 The dataset is open for public usage and use. This work is licensed under a Creative Commons CCZero [1.0] License/Waiver.
 
-##License URL: 
+## License URL: 
 [click here](http://opendefinition.org/licenses/cc-zero/)
 
 ## Data users and Decision makers:
@@ -32,4 +32,4 @@ Agencies/Customers who want to place orders for GSA.
 
 ## References:
 
-DATA CATALOG. (2017, Apr 19). Retrieved from https://catalog.data.gov/dataset/national-stock-number-extract
+DATA CATALOG. (2017, Apr 19). Retrieved from "https://catalog.data.gov/dataset/national-stock-number-extract"
